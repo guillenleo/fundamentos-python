@@ -1,6 +1,6 @@
 # Fundamentos de Python
 Nombre del estudiante: Leo Adalberto Mondragon Guillen
-Grado y sección: 2° de bachillerato general "A"
+Grado y sección: 2° de bachillerato general "B"
 Asignatura: Ciencias de la Computación
 Docente: Prof. Fernando Avismael Argueta Arévalo
 ## Descripción
