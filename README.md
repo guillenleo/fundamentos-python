@@ -9,6 +9,7 @@ Python.
 
 ## Lista de reproducción
 Enlace:
+https://youtube.com/playlist?list=PL7oDCa7OnYwDxd-MkbjTzlxFV8P8KPG1X&si=eG4qZTxpXTTYPIjy
 
 ## Contenidos trabajados
 1. Introducción a Python
@@ -19,6 +20,6 @@ Enlace:
 6. Funciones
 
 ## Reflexión final
-Tema que más comprendí:
-Tema que más me costó:
-Aprendizaje principal:
+Tema que más comprendí: EL DE VARIABLE
+Tema que más me costó: EL JUEGO DE ADIVINA  YA QUE SE UTILIZAN MUCHOS TEMAS DIFERENTES
+Aprendizaje principal:   APRENDI A UTILIZAR LAS BASES DE PYTHON, COMO VARIABLES, OPERADORES. TAMBIEN COMPRENDI MEJOR LA LOGICA DE PROGRAMACIION COMO RESOLVER PORBLEMAS MEDIANTE CODIGO, CREANDO PROGRAMAS SENCILLOS PERO FUNCIONALES.
